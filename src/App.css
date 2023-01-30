@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.box {
+  background-color: gray;
+  width: 100px;
+  height: 100px;
+  border: none;
+  margin: 10px 5px;
+  border-radius: 4px;
+  box-shadow: 2px 2px 4px gray;
+}
